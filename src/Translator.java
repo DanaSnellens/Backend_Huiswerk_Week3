@@ -12,7 +12,7 @@ public class Translator {
         }
     }
 
-    //Translate functie/method
+    //Translate functie/methode
     public String translate (Integer number){
         String value = numericAlpha.get(number);
         return value;
